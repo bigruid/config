@@ -4,3 +4,5 @@ payload:
   - '+.gstatic.com'
   - '+.googleapis.com'
   - '+.lbyczf.com'
+  - 'imgloc.com'
+  - '+.zerotier.com'
