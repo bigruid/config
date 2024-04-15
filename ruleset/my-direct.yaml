@@ -1,4 +1,7 @@
 payload:
+  - '101.32.73.4/32'
+  - '47.91.228.42/32'
+  - '43.128.20.10/32'
   - '+.steamcontent.com'
   - '+.steampipe.akamaized.net'
   - '+.steamserver.net'
