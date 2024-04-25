@@ -1,8 +1,8 @@
 payload:
-  - '+.steamcontent.com'
-  - '+.steampipe.akamaized.net'
-  - '+.steamserver.net'
-  - '+.download.nvidia.com'
-  - 'speedtest.im'
-  - 'snapdrop.net'
-  - 'download.epicgames.com'
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steampipe.akamaized.net
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,download.nvidia.com
+  - DOMAIN,speedtest.im
+  - DOMAIN,ssnapdrop.net
+  - DOMAIN,sdownload.epicgames.com
