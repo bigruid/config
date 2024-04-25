@@ -6,3 +6,9 @@ payload:
   - DOMAIN,speedtest.im
   - DOMAIN,ssnapdrop.net
   - DOMAIN,sdownload.epicgames.com
+  - IP-CIDR,101.32.73.4/32,no-resolve
+  - IP-CIDR,47.91.228.42/32,no-resolve
+  - IP-CIDR,43.128.20.10/32,no-resolve
+  - IP-CIDR,133.0.0.0/8,no-resolve
+  - IP-CIDR,134.0.0.0/8,no-resolve
+  - IP-CIDR,136.64.0.0/8,no-resolve
