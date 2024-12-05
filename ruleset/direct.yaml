@@ -13,4 +13,5 @@ payload:
   - IP-CIDR,133.0.0.0/8,no-resolve
   - IP-CIDR,134.0.0.0/8,no-resolve
   - IP-CIDR,136.64.0.0/16,no-resolve
+  - IP-CIDR,136.160.0.0/16,no-resolve
   - IP-CIDR,137.32.0.0/16,no-resolve
