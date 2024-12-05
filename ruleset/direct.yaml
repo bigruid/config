@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,download.nvidia.com
   - DOMAIN-SUFFIX,r2.cloudflarestorage.com
-  - DOMAIN,speedtest.im
   - DOMAIN,ssnapdrop.net
   - DOMAIN,sdownload.epicgames.com
   - IP-CIDR,101.32.72.0/22,no-resolve
