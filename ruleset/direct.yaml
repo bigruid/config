@@ -8,3 +8,4 @@ payload:
   - DOMAIN,sdownload.epicgames.com
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,lmstudio.ai
+  - DOMAIN-SUFFIX,ls.apple.com
