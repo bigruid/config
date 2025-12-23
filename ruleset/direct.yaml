@@ -11,5 +11,4 @@ payload:
   - DOMAIN-SUFFIX,store.apple.com
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,msftconnecttest.com
-  - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,voidtools.com
