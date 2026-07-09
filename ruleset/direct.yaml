@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,voidtools.com
+  - DOMAIN,api-huacloud.net
